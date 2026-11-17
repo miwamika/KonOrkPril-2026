@@ -1,0 +1,9 @@
+﻿.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.log
+note.json
+note_network.json
+demo_note.json
